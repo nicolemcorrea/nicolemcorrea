@@ -15,7 +15,7 @@
 
 ▪️ Contato: nicoleoceano@gmail.com
 
-## <h3>Ferramentas e Linguagens 👩‍💻</h3>
+## <h3>Ferramentas e Linguagens </h3>
 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" tittle="Big-Query" width="40" height="40"/>&nbsp;
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" title="Power-BI" width="40" height="40"/>&nbsp;
@@ -26,4 +26,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/512px-ChatGPT_logo.svg.png" tittle="ChatGPT" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" width="40" height="40"/>&nbsp;
 
+
+## <h3>Estatísticas Github</h3>
+<div>
+<a href="https://github.com/nicolemcorrea">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
